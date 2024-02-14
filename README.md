@@ -1,2 +1,4 @@
-# education_ib11_python
+# Denis Tulvinskiy
+# IB-11
 Python Education
+
