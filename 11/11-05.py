@@ -1,0 +1,5 @@
+text = input().split()
+text = list(text)
+print('["', end="")
+print('", "'.join(text), end="")
+print('"]')
