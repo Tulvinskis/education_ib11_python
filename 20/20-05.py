@@ -1,0 +1,1 @@
+print(any('0' in line for line in input().split('\n')))
